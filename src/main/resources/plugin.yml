@@ -1,0 +1,8 @@
+name: Omok
+version: '${project.version}'
+main: casper.plugin.Omok
+api-version: 1.18
+commands:
+  createOmokTable:
+    description: 바둑판 생성
+    usage: /createOmokTable
